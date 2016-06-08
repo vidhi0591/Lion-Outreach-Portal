@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<toppings><item price="4">pepperoni</item><![CDATA[
+Customer requests that pizza be sliced into 16 square pieces
+]]><?pizza bake()?></toppings>
