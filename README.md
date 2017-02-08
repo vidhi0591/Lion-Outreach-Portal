@@ -1,7 +1,7 @@
-# SIAT Alumni Outreach Portal
+This is the functional web portal for alumni outreach, created using PHP and MySQL. 
+It is licensed under the GPL Version 3 license.
 
-This is a functional mock student portal for SIAT students and alumni using the APACHE framework and written in PHP. MySQL was used for server data persistence.
-This was a project for a web server development course. ( IAT 352 Internet Computing Technology - Simon Fraser University )
+This project contains code by enochng1.
 
 Core features:
 - login and account registration
