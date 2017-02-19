@@ -3,6 +3,8 @@ It is licensed under the GPL Version 3 license.
 
 This project contains code by enochng1.
 
+All changes are Copyrighted 2017 by Seth Trojacek and Thomas Lawthon.
+
 Core features:
 - login and account registration
 - integrating twitter's API and linking it to account
