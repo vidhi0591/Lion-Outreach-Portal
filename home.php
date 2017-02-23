@@ -9,7 +9,7 @@
 	}
 ?>
 <b>
-    Welcome to the SIAT Student & Alumni Outreach Page!
+    Welcome to the TAMUC Student & Alumni Outreach Page!
 </b>
 
 <?php include 'rightcolumn.php'; ?>		
