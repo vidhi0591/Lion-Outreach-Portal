@@ -1,6 +1,6 @@
   <div id="footer">
 	
-	Tamuc Student & Alumni Outreach Website
+	TAMUC Student & Alumni Outreach Website
 	
 	
     </div>		
