@@ -1,6 +1,6 @@
   <div id="footer">
 	
-	Enoch Chi Him Ng - SFU SIAT Student & Alumni Outreach Website
+	Tamuc Student & Alumni Outreach Website
 	
 	
     </div>		
