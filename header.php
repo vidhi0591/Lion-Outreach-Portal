@@ -12,7 +12,7 @@
 	<div id="header">
 	<br /> 
 	<br /> 
-	School of Interactive Arts & Technology 
+	Texas A&M University-Commerce 
 	<br /> OUTREACH PAGE
 	
 	</div>
@@ -29,11 +29,6 @@
 	</tr>
 	
 	
-	<tr>
-	<td>
-    <a href="http://www.sfu.ca/siat/prospective_students/degree_options.html">About the SIAT Program</a>
-	</td>
-	</tr>
 	
 	<tr>
 	<td>
@@ -61,13 +56,13 @@
 	
 	<tr>
 	<td>
-    <a href="newsfeed.php">View mySFU Newsfeed</a>
+    <a href="newsfeed.php">View myLeo Newsfeed</a>
 	</td>
 	</tr>
 	
 	<tr>
 	<td>
-    <a href="blog.php">Update mySFU Blog</a>
+    <a href="blog.php">Update myLeo Blog</a>
 	</td>
 	</tr>
 	
@@ -76,12 +71,6 @@
     <a href="aboutthissite.php">About this Site</a>
 	</td>
 	
-	</tr>
-	<tr>
-	<td>
-    <a href="abouttheauthor.php">About the Author/Creator</a>
-	</td>
-	</tr>
 	
 	<tr>
 	<td>
